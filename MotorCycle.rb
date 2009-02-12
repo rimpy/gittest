@@ -1,3 +1,4 @@
+# added by rimpy
 class MotorCycle
   def initialize(make, color)
     @make = make
